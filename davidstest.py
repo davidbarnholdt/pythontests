@@ -9,7 +9,7 @@ def printName2(event):
     print("Hello my name is 123123")
 
 label_1 = Label(root, text="Name")
-label_2 = Label(root, text="Password yes")
+label_2 = Label(root, text="Password yes or yes")
 entry_1 = Entry(root)
 
 
