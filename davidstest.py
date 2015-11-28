@@ -11,6 +11,8 @@ def printName2(event):
 label_1 = Label(root, text="Name")
 label_2 = Label(root, text="Password yes")
 entry_1 = Entry(root)
+
+
 entry_2 = Entry(root)
 
 
